@@ -41,3 +41,5 @@ proc freq data=austria
 	tables AGEA TPORGWK /
 		plots=freqplot;
 run;
+
+
